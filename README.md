@@ -48,6 +48,11 @@ This the PCB project files, for the Pico Power Monitor.  I've included everythin
 <img width="1001" height="801" alt="Screenshot 2026-06-21 09 38 13" src="https://github.com/user-attachments/assets/001e4f0f-92b2-4ca5-b5bc-7fcf1d40a5b3" />
 </p>
 
+- 1st unit off the projection line, getting put through its paces.
+<p align="center">
+<img width="2281" height="1751" alt="IMG_2805" src="https://github.com/user-attachments/assets/898966d5-983a-476b-8894-1d8d22108650" />
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://www.google.com/search?q=LICENSE) file for details.
