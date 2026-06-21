@@ -7,6 +7,8 @@ This the PCB project files, for the Pico Power Monitor.  I've included everythin
 
   - KiCAD Custom PCB Design - This Repo.
 
+	- PCBWay Shared Projects (Direct link [here](https://www.pcbway.com/project/shareproject/Pico_Power_Monitor_e0ff12c4.html))
+
   - PicoPowerMonitor - This is the Windows 11 application, completely optional.  The PicoPowerMonitor can and does run without this application.
   
 	- Repo: /PicoPowerMonitor (Direct link [here](https://github.com/cbelcher/PicoPowerMonitor))
