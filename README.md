@@ -15,10 +15,10 @@ This the PCB project files, for the Pico Power Monitor.  I've included everythin
  
   - MicroPhython code to drive the hardware side of things.
 		    
-    - Repo: /RP2040PowerMonitor  (Direct link [here](https://github.com/cbelcher/RP2040PowerMonitor})
+    - Repo: /RP2040PowerMonitor  (Direct link [here](https://github.com/cbelcher/RP2040PowerMonitor))
         This is the project that runs on the RP2040-Zero.  Current MicroPython firmware 1.28.
       
-  - FreeCAD 3D Printed Case Design. (Project should be uploaded this weekend.)
+  - FreeCAD 3D Printed Case Design. (Direct link [here](https://github.com/cbelcher/PicoPowerMonitor_FreeCAD))
 
 
 ## CAD and Finished PCB Images
