@@ -5,7 +5,7 @@ This the PCB project files, for the Pico Power Monitor.  I've included everythin
 
 ## Project is broken up into 4 sub-projects.
 
-  - KiCAD Custom PCB Design - This Repo.
+  - KiCad Custom PCB Design - This Repo.
 
 	- PCBWay Shared Projects (Direct link [here](https://www.pcbway.com/project/shareproject/Pico_Power_Monitor_e0ff12c4.html))
 
